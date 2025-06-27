@@ -40,3 +40,8 @@ python main.py example.com --crt
 |------------|----------------------------------------|
 | `--crt`    | Get latest certificate data via crt.sh |
 | `--whois`  | Get WHOIS info for the domain *(WIP)*  |
+
+## 📸 Screenshot
+
+![ShadowRecon Screenshot](screenshots/crtsh.png)
+
