@@ -7,7 +7,7 @@
 ## 🚀 Features
 
 - 🔍 Fetch SSL certificate data from **crt.sh**
-- 🌐 Retrieve domain WHOIS information (Coming soon)
+- 🌐 Retrieve domain WHOIS information
 
 ---
 
